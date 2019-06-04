@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Loaner Request" max_length="40" name="x_334250_loaner_re_loaner_request" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+    </element>
+</database>
